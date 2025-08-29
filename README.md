@@ -36,13 +36,14 @@ We never collect your data. Your data is yours and always will be.
 <img width="1170" alt="Screen Shot 2021-04-08 at 18 28 36" src="https://user-images.githubusercontent.com/9281080/115814355-1351c700-a41f-11eb-9e4d-a99f34908877.png">
 
 ## Download
-
-https://github.com/thanhlmm/refi-app/releases
+Fork: https://github.com/jordanjoecooper/refi-app/releases
+Original https://github.com/thanhlmm/refi-app/releases
 
 ## Development
 
-https://github.com/thanhlmm/refi-app/blob/main/DEVELOPMENT.md
+Original: https://github.com/thanhlmm/refi-app/blob/main/DEVELOPMENT.md
 
 ## Issues
 
-[https://github.com/thanhlmm/refi-app/issues](https://github.com/jordanjoecooper/refi-app/issues)
+Fork: https://github.com/jordanjoecooper/refi-app/issues
+Original: https://github.com/thanhlmm/refi-app/issues
