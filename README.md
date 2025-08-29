@@ -45,4 +45,4 @@ https://github.com/thanhlmm/refi-app/blob/main/DEVELOPMENT.md
 
 ## Issues
 
-https://github.com/thanhlmm/refi-app/issues
+[https://github.com/thanhlmm/refi-app/issues](https://github.com/jordanjoecooper/refi-app/issues)
